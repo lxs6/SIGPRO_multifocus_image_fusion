@@ -3,7 +3,7 @@
 
 This package contains the code which is associated with the following paper:
 
-Xiaosong Li,Fuqiang Zhou, Haishu Tan et al. Multi-focus Image Fusion Based on Nonsubsampled Contourlet Transform and Residual Information Removal [J].Preprint submitted to Signal processing.
+Xiaosong Li,Fuqiang Zhou, Haishu Tan et al. Multi-focus Image Fusion Based on Nonsubsampled Contourlet Transform and Residual Information Removal [J]. Signal processing，2021, 184, 108062. 
 
 Usage of this code is free for research purposes only. 
 
