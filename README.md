@@ -15,7 +15,7 @@ Please notice that the package only contains the method for fuse two source imag
 
 The demo files are script_gray.m and script_color.m.  
 
-The fused images and the objective evaluation results of all the fourteen fusion method in the manuscript are available at https://pan.baidu.com/s/1j4Q_78ZkVhNHAkiAuWnlYQ. (passcode: 6yed)
+The fused images and the objective evaluation results of all the fourteen fusion method in this paper are available at https://pan.baidu.com/s/1j4Q_78ZkVhNHAkiAuWnlYQ. (passcode: 6yed)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
